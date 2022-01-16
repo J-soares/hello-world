@@ -1,2 +1,3 @@
 # hello-world
-My first Repository (lang="en") || Meu primeiro Repositório (lang="pt-br")
+Este é um branch de testes para GitHub. 
+É muito bom poder fazer parte desta comunidade!
